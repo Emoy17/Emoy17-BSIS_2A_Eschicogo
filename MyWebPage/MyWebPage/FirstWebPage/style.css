@@ -1,0 +1,251 @@
+ body{
+    background-color: #e8eaed;
+  }
+
+.container{
+ 
+  }
+
+
+.logo{
+  margin-top: none;
+height: 80px;
+font-size:xx-large;
+color: dodgerblue;
+text-align: center;
+}
+
+
+ul{
+  
+  list-style: none;
+  margin: 10px;
+  padding: 10px;
+  overflow: hidden;
+  margin-left: 640px;
+  
+  
+}
+li{
+ 
+  float:left;
+  display: inline;
+
+  
+}
+li a {
+ 
+  display: block;
+  text-align: center;
+  padding: 5px; 
+
+}
+li  a button{
+  border: none;
+  font-size: medium;
+  cursor: pointer;
+  color: dodgerblue;
+  font-weight: bold;
+  background-color: none;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  transition: background-color 0.5s,
+  color 0.5s;
+  
+  
+
+}
+
+a button:hover{
+  background: dodgerblue;
+  color: white;
+}
+a button:active{
+  opacity: 0.5;
+}
+
+.table{
+  padding-left: 130px;
+  
+}
+
+.title{
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  font-size:20px;
+  text-align: center;
+  color: dodgerblue;
+  align-content: center;
+}
+
+.facebook{
+  border: none;
+  font-size: medium;
+  cursor: pointer;
+  color: dodgerblue;
+  font-weight: bold;
+  background-color: none;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  transition: background-color 0.5s,
+  color 0.5s;
+  margin right: 15px;
+}
+
+.facebook:hover{
+  background: dodgerblue;
+  color: white;
+}
+.facebook:active{
+  opacity: 0.5;
+}
+
+.instagram{
+  border: none;
+  font-size: medium;
+  cursor: pointer;
+  color: #ef87c7;
+  font-weight: bold;
+  background-color: none;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  transition: background-color 0.5s,
+  color 0.5s;
+  margin-left: 15px;
+}
+
+.instagram:hover{
+  background: #ef87c7;
+  color: white;
+}
+.instagram:active{
+  opacity: 0.5;
+}
+
+.gmail{
+  border: none;
+  font-size: medium;
+  cursor: pointer;
+  color: #555;
+  font-weight: bold;
+  background-color: none;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  transition: background-color 0.5s,
+  color 0.5s;
+  margin-left: 15px;
+}
+.gmail:hover{
+  background: #555;
+  color: white;
+}
+.gmail:active{
+  opacity: 0.5;
+}
+
+.discord{
+  border: none;
+  font-size: medium;
+  cursor: pointer;
+  color: #7289d9;
+  font-weight: bold;
+  background-color: none;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  transition: background-color 0.5s,
+  color 0.5s;
+  margin-left: 15px;
+}
+
+.discord:hover{
+  background: #7289d9;
+  color: white;
+}
+
+.discord:active{
+  opacity: 0.5;
+}
+
+
+.social{
+  margin-left: 390px;
+ margin-top: 100px;
+ 
+}
+
+.feedback input{
+  border: none;
+  font-size: medium;
+  cursor: pointer;
+  color: dodgerblue;
+  font-weight: bold;
+  background-color: none;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  transition: background-color 0.5s,
+  color 0.5s;
+}
+
+.feedback input:hover{
+  background: dodgerblue;
+  color: white;
+}
+
+.about{
+  color: rgb(67, 101, 203);
+  text-align: center;
+}
+
+td{
+  text-align:center;
+  font-weight: bold;
+}
+
+.next button{
+  margin-left: 50px;
+  border: none;
+  font-size: medium;
+  cursor: pointer;
+  color: dodgerblue;
+  font-weight: bold;
+  background-color: none;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  transition: background-color 0.5s,
+  color 0.5s;
+}
+
+.next button:active{
+  opacity: 0.7;
+}
+
+footer{
+  color: rgb(67, 101, 203);
+}
+
+.rating{
+  color: dodgerblue;
+}
